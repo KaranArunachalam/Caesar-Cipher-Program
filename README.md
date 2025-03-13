@@ -80,10 +80,6 @@ return 0;
 ![image](https://github.com/user-attachments/assets/956c55ba-e923-49f3-a125-06895fbde4bd)
 
 
-Input : Anna University
-Encrypted Message : Fssf Zsnajwxnyd 
-
-Decrypted Message : Anna University
 
 ## RESULT:
 The program is executed successfully
